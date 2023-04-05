@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Sensei working as Software Engineer. I am an Experienced Fullstack Developer with a demonstrated history of working in the information technology and services industry. Skilled in React JS, Angular, React Native, NodeJS, MongoDB, Mean Stack, RESTfull API’s, PSD to WordPress, PSD to HTML, User Experience, PHP, and WordPress. 
+I am Sensei working as Software Engineer. I am an Experienced Fullstack Developer in information technology and services industry. Skilled in React JS, Angular, React Native, NodeJS, MongoDB, Mean Stack, RESTfull API’s, PSD to WordPress, PSD to HTML, User Experience, PHP, and WordPress. 
 
 
 # 💻 Tech Stack:
